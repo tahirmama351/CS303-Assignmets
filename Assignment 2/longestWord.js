@@ -9,5 +9,5 @@ function longestWord(arr){
      }
      return maxWordLength
 }
-let result = longestWord(["tahir","mama","maymuna"])
-console.log(result)
+// let result = longestWord(["tahir","mama","maymuna"])
+// console.log(result)
